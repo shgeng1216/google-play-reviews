@@ -1,7 +1,7 @@
-# Google-Play-reviews
-Extra Google Play reviews information
+## Google-Play-reviews
+# Extra Google Play reviews information
 
-Essentials:
-    Python
+Essentials:<br>
+    Python <br>
     Selenium Module in Python
     Chrome Webdriver
