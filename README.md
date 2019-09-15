@@ -29,7 +29,7 @@
    **S**: Rewritting codes. Extracting data from XPATHs rather than tag names. Finding the laws of locating every single item. I finally found that in a XPATH, div[1] means the first reviews, div[2] for the second reviews, Therefore, div[i] can represent any items. Futher explaination by using upper example, 1st and 4th are long reviews and 2nd, 3rd, 5th are short reviews. Ertracting info by using 'Full Reviews' XPATH, div[2] will give back a empty list, which is easy for us to identify and reassign for another value. <br>
    5) <br>
    **D**: Since it's hard to mark and identify empty lists, same issue will happen when I set up loops to extract info and put them in a cvs file.<br>
-   **S**: Solved by using XPATHs and index to extract info. 
+   **S**: Solved by using XPATHs and index to extract info.  
       
       
  
