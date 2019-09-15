@@ -2,7 +2,7 @@
 ## Extra Google Play reviews information
 
 Essentials:<br>
-    * Python <br>
+    *Python <br>
     * Selenium Module in Python <br>
     * Chrome Webdriver <br>
     
