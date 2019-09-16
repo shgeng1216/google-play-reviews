@@ -16,7 +16,7 @@
 ### Difficulties and Solutions
 
 
-   * 1) <br>
+   * 1. <br>
    **D**: Google sites are using JavaScript Render, which means content that we need is not present in the source code of the page. Therefore, BeatuifulSoup and RE libraries can not be our priorities.<br>
    **S**: Asynchronous crawling. using Selenium to crawl data.<br>
    * 2) <br>
