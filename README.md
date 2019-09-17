@@ -13,9 +13,9 @@
 ### Main Idea: <br>
 #### 1. Get site codes
 
-```Pyhton 
+```ruby 
 while 1:
-    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);") # Simulate mouse slide to the end of page //python
+    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);") # Simulate mouse slide to the end of page 
     
     try:
         time.sleep(2)
@@ -46,7 +46,7 @@ while 1:
         if page >=10:
             break
     else:
-        flag=0 //python
+        flag=0 
 ```
 
 #### 2. Extract valuable information 
