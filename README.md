@@ -12,7 +12,8 @@
    
 ### Main Idea: <br>
 #### 1. Get site codes
-``` pyhton 
+
+```Pyhton 
 while 1:
     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);") # Simulate mouse slide to the end of page
     
