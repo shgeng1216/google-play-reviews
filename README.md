@@ -7,6 +7,7 @@
    Chrome Webdriver <br>
     
 ### Partial Output:<br>
+   ![](https://github.com/shgeng1216/raw/master/google-play-reviews/output.png)
 
 ### Execution Environment
    Python 3.7 <br>
