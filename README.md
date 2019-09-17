@@ -1,8 +1,5 @@
 # Google-Play-reviews
 ## Extra Google Play reviews
-```python
-print("h") //python
-```
 
 ### Essentials: <br>
    Python <br>
@@ -18,7 +15,7 @@ print("h") //python
 
 ```Pyhton 
 while 1:
-    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);") # Simulate mouse slide to the end of page
+    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);") # Simulate mouse slide to the end of page //python
     
     try:
         time.sleep(2)
@@ -49,7 +46,7 @@ while 1:
         if page >=10:
             break
     else:
-        flag=0
+        flag=0 //python
 ```
 
 #### 2. Extract valuable information 
