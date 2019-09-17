@@ -50,7 +50,7 @@ while 1:
 ```
 
 #### 2. Extract valuable information 
-```
+```ruby
 # Extracting info from their XPATHs. 
 for ii in range(1,len(reviews)):
         fullreview= selector.xpath('//*[@id="fcxH9b"]/div[4]/c-wiz/div/div[2]/div/div[1]/div/div/div[1]/div[2]/div[1]/div'+str([ii])+'/div/div[2]/div[2]/span[2]/text()')
